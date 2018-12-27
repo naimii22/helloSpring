@@ -1,0 +1,17 @@
+INDEX VERSION 1.130
+C:\java\workspace\01-HelloSpring\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3958188461.index
+\01-HelloSpring\src\main\java
+C:\java\workspace\01-HelloSpring\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3492666415.index
+\01-HelloSpring\src\main\java
+C:\java\workspace\01-HelloSpring\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1816342135.index
+\01-HelloSpring\src\main\java
+C:\java\workspace\01-HelloSpring\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4121815892.index
+\01-HelloSpring\src\main\java
+C:\java\workspace\01-HelloSpring\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3743342982.index
+\01-HelloSpring\src\main\java
+C:\java\workspace\01-HelloSpring\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1059443322.index
+\01-HelloSpring\src\main\java
+C:\java\workspace\01-HelloSpring\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1299218518.index
+\01-HelloSpring\src\main\java
+C:\java\workspace\01-HelloSpring\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3493073882.index
+\01-HelloSpring\src\main\java

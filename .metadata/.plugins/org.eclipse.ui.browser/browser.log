@@ -1,0 +1,11 @@
+
+12월 21, 2018 21:07:04.75 NEW SESSION
+12월 21, 2018 21:07:04.76 [16076:17624:1221/210704.633:ERROR:external_registry_loader_win.cc(160)] File C:\Program Files (x86)\Norton Internet Security\Engine\20.5.0.28\Exts\Chrome.crx for key Software\Google\Chrome\Extensions\bejnhdlplbjhffionohbdnpcbobfejcc does not exist or is not readable.
+12월 22, 2018 01:36:46.68 [16076:2952:1222/013646.683:ERROR:http_bridge.cc(126)] NOT IMPLEMENTED
+
+12월 22, 2018 12:42:19.56 NEW SESSION
+12월 22, 2018 12:42:19.56 [8212:12352:1222/124219.559:ERROR:external_registry_loader_win.cc(160)] File C:\Program Files (x86)\Norton Internet Security\Engine\20.5.0.28\Exts\Chrome.crx for key Software\Google\Chrome\Extensions\bejnhdlplbjhffionohbdnpcbobfejcc does not exist or is not readable.
+12월 22, 2018 17:29:58.32 [8212:16216:1222/172958.323:ERROR:platform_sensor_reader_win.cc(242)] NOT IMPLEMENTED
+12월 22, 2018 17:31:17.86 [8212:17224:1222/173117.868:ERROR:ssl_client_socket_impl.cc(1013)] handshake failed; returned -1, SSL error code 1, net_error -101
+12월 22, 2018 17:58:07.02 [8212:17224:1222/175807.019:ERROR:shader_disk_cache.cc(257)] Failed to create shader cache entry: -2
+12월 22, 2018 18:49:05.97 [8212:17224:1222/184905.977:ERROR:connection_factory_impl.cc(408)] Failed to connect to MCS endpoint with error -21
